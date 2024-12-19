@@ -20,6 +20,8 @@ html {
 
 #navbar a:hover {
     background-color: SandyBrown;
+    transition: transform 0.4s;
+    transform: scale(1.5);
 }
 
 li {
